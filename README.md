@@ -1,20 +1,18 @@
 # Wagwan! I'm Almaz Ermilov 🫡
 
-### ML Practitioner | Research Assistant | Computer Science Student
+#### ML Practitioner | Research Assistant | Computer Science Student
 
 I'm a Research Assistant at the AI Group, UiT, where I am also a Computer Science student. Combining my 10++ years of experience as a Petrophysicist with my ongoing studies in computer science and machine learning. I also volunteer at the [Algoritmi](https://www.linkedin.com/company/algoritminarvik/) student club, bringing new energy and ideas to this non-profit student organization. <br>
-🌐 [LinkedIn](https://www.linkedin.com/in/almazermilov) <br>
-💻 [GitHub](https://github.com/AlmazErmilov)
+🌐 [LinkedIn](https://www.linkedin.com/in/almazermilov)  |  💻 [GitHub](https://github.com/AlmazErmilov)
 
-### Tech stack
+#### Tech stack
 🐍 Python, C++, Kotlin <br>
 🐳 Docker, Flask, SQLAlchemy <br>
 🌊 Pandas, NumPy, Jupyter <br>
 🔧 Git
 
-### Contact 📬
-📧 almaz.ermilov@uit.no <br>
-📧 almaz.ermilov@gmail.com <br>
+#### Contact
+📧 almaz.ermilov@uit.no | almaz.ermilov@gmail.com <br>
 📞 +47 97335582
 
 <!--
