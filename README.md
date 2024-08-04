@@ -1,4 +1,4 @@
-# Wagwan! I'm Almaz Ermilov 🫡
+# Wagwan! My name is Almaz 🫡
 
 #### ML Practitioner | Research Assistant | Computer Science Student
 
