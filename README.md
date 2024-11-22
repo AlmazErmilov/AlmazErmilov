@@ -13,7 +13,7 @@ I'm a Research Assistant at the AI Group, UiT Narvik, where I am also a Computer
 
 #### Backend & DevOps  
 - **Technologies**: 🐳 Docker | Flask | SQLAlchemy | ⚡ FastAPI  
-- **Databases**: 🛢️ PostgreSQL (with **pgvector**) | SQLite
+- **Databases**: 🛢️ PostgreSQL (with vector search) | SQLite
 - **Version Control**: 🔧 Git | GitHub  
 
 #### Tools & Platforms  
