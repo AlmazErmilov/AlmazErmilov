@@ -6,18 +6,13 @@ I'm a Research Assistant at the AI Group, UiT Narvik, where I am also a Computer
 🌐 [LinkedIn](https://www.linkedin.com/in/almazermilov)  |  💻 [GitHub](https://github.com/AlmazErmilov)
 
 ### **Tech Stack**
-#### Programming & Frameworks  
 - **Languages**: 🐍 Python | 📱 Kotlin | 🛠️ C++ | 🖥️ Shell Scripting  
 - **ML**: PyTorch | TensorFlow | Scikit-learn | Pandas | NumPy | SciPy  
-- **Data Visualization**: 📈 Matplotlib | Seaborn | Plotly
-
-#### Backend & DevOps  
-- **Technologies**: 🐳 Docker | Flask | SQLAlchemy | ⚡ FastAPI  
-- **Databases**: 🛢️ PostgreSQL (with vector search) | SQLite
+- **Data Visualization**: 📈 Matplotlib | Seaborn | Plotly  
+- **Backend & DevOps**: 🐳 Docker | Flask | SQLAlchemy | ⚡ FastAPI  
+- **Databases**: 🛢️ PostgreSQL (vector search) | SQLite  
 - **Version Control**: 🔧 Git | GitHub  
-
-#### Tools & Platforms  
-- **Data Science**: Jupyter | Google Colab | 🛠️ VS Code  
+- **Tools & Platforms**: Jupyter | Google Colab | 🛠️ VS Code  
 - **System Administration**: 🖥️ Unix/Linux Environments | macOS   
 
 #### Interests  
