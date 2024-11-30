@@ -1,8 +1,8 @@
 # Wagwan! My name is Almaz 🫡
 
-#### Machine Learning Engineer | Research Assistant | Hopeful AGI Doomer 
+#### Data Scientist | Research Assistant | Hopeful AGI Doomer 
 
-I'm a Research Assistant at the AI Group, UiT Narvik, where I am also a Computer Science student. Combining my 10++ years of experience as a Petrophysicist (data analyst in oil and gas) with my ongoing studies in computer science and machine learning, while supporting courses on AI/ML algorithms, Operating Systems, and Intelligent Agents. I also volunteer at the [Algoritmi](https://www.linkedin.com/company/algoritminarvik/) student club, bringing new energy and ideas to this student non-profit. <br>
+I'm a Research Assistant at the AI Group, UiT Narvik, where I am also a Computer Science student. Combining my 10++ years of experience as a Petrophysicist (Data Analyst applied in the Oil and Gas) with my ongoing studies in computer science and machine learning, while supporting courses on AI/ML algorithms, Operating Systems, and Intelligent Agents. I also volunteer at the [Algoritmi](https://www.linkedin.com/company/algoritminarvik/) student club, bringing new energy and ideas to this student non-profit. <br>
 🌐 [LinkedIn](https://www.linkedin.com/in/almazermilov)  |  💻 [GitHub](https://github.com/AlmazErmilov)
 
 #### **Tech Stack**
