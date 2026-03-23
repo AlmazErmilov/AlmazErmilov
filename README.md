@@ -2,7 +2,7 @@
 
 #### Data Scientist | Software Engineer | Hopeful AGI doomer 
 
-I'm a former Petrophysicist, now full time Software Engineer, solving problems. <br>
+I'm a former Petrophysicist, now full time Software Engineer, a solve problems type of guy. <br>
 Current work and research focus on LLM transparency, control and security in high hazard industries;
 
 prev. Research Assistant at the AI Group, UiT Narvik, where I also a Computer Science student. 
