@@ -18,7 +18,7 @@ Combining my 10++ years of experience as a Petrophysicist (Data Science applied 
 - **System Administration**: 🖥️ Unix/Linux Environments | macOS   
 
 #### **Interests** 
-NLP, RAG Systems, Geological Modeling 🪨 ([FormationEval.no/)](https://www.formationeval.no/)
+LLM transparency, control and security, NLP, RAG Systems, Geological Modeling 🪨 and all that jazz ([FormationEval.no/)](https://www.formationeval.no/)
 #### Contact
 📧 almaz.ermilov@uit.no | almaz.ermilov@gmail.com <br>
 📞 +47 97335582
